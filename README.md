@@ -1,3 +1,5 @@
+- 👋 Hi, I started my career in ByteDance in October, 2024, open to collaborate.
+- 👋 Hi, I started my career in Zeekr in June, 2024.
 - 👋 Hi, I’m @vasgaowei, I'm an algorithm engineer in AutoNavi, Alibaba from December, 2021.
 - I obtained my Master's Degree from [University of Chinese Academy of Science](https://www.ucas.ac.cn/) in June, 2021.
 - I obtained my Bachelor's Degree from [Tsinghua University](https://www.tsinghua.edu.cn/), [Department for Automation](https://www.au.tsinghua.edu.cn/) in June 2018.
